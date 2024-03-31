@@ -1,0 +1,9 @@
+.body-right-container{
+    width: 77%;
+    height: 90vh;
+    float: right;
+    margin-right: 2%;
+    display: flex;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}

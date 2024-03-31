@@ -1,0 +1,48 @@
+.addmusic-container{
+    height: 80vh;
+    width: 70%;
+    float: right;
+    margin-right: 10%;
+    margin-top: 4vh;
+
+}
+table tr td{
+    width: 35%;
+    font-family: Lato, sans-serif;
+    height: 14vh;
+}
+
+.form-control{
+    width: 90%;
+    margin-top: 1vh;
+}
+
+.singerlist-container{
+    height: 7vh;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+}
+.singerlist-array{
+    height: 4vh;
+    line-height: 4vh;
+    width: 10%;
+    text-align: center;
+    border-radius: 1vh;
+    font-family: Lato, sans-serif;
+    background-color: rgb(81, 233, 81);
+    margin-left: 2%;
+
+}
+
+.genrelist-array{
+    height: 4vh;
+    line-height: 4vh;
+    width: 10%;
+    text-align: center;
+    border-radius: 1vh;
+    font-family: Lato, sans-serif;
+    background-color: rgb(244, 108, 233);
+    margin-left: 2%;
+
+}
